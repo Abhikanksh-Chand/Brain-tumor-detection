@@ -1,0 +1,3 @@
+# Brain-tumor-detection
+
+In the field of medicine, medical image analysis and processing play a vital role, especially in Non-invasive treatment and clinical study. Medical imaging techniques and analysis tools help medical practitioners and radiologists to correctly diagnose the disease. Medical Image Processing has emerged as one of the most important tools to identify and diagnose various anomalies. Imaging enables doctors to visualize and analyze the MR images for finding the abnormalities in internal structures. An important factor in the diagnosis includes the medical image data obtained from various biomedical devices which use different imaging techniques like X-rays, CT scans, MRI, mammogram, etc.
